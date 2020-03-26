@@ -1,6 +1,6 @@
 # PODEM-py 
 PODEM - Path Oriented DEcision Making 
-here we have a python code to detect the stuck at faults in the ciruit, read the code its self-explainatory 
+here we have a Python code to detect the stuck at faults in the circuit, read the code its self-explainatory 
 
 
 ### instructions for writing a equation 
